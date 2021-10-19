@@ -1,7 +1,7 @@
 
 /*  
  *   WeedPot
- *   PM Project 2021
+ *   Project 2021
  *   Radulescu Florin 333CC
  *   
  *   Documentation: 
