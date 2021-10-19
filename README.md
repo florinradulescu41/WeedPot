@@ -2,6 +2,7 @@
 Arduino code for a smart pot
 
 Author: RADULESCU Florin
+
 Introduction
 
 Brief presentation of the project:
